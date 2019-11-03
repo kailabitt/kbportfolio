@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+.cats h3 {
+  font-style: italic;
+}
+.cats img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.dogs h3 {
+  font-style: bold;
+  font-family: fantasy;
+}
+.dogs img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.mongooses h3 {
+  font-style: bold;
+  font-family: sans-serif;
+}
+.mongooses img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#l1 {
+  color: red;
+}
