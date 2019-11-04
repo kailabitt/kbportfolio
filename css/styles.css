@@ -33,3 +33,7 @@ h1 {
 #l1 {
   color: red;
 }
+.color {
+  font-style: italic;
+  color: purple;
+}
